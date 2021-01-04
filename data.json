@@ -1,0 +1,80 @@
+{
+    ".": [
+        ".git/",
+        "teste/",
+        "data.json",
+        "main.py",
+        "README.md"
+    ],
+    ".git/": [
+        "hooks/",
+        "info/",
+        "logs/",
+        "objects/",
+        "refs/",
+        "config",
+        "description",
+        "HEAD",
+        "index",
+        "packed-refs"
+    ],
+    ".git/hooks/": [
+        "applypatch-msg.sample",
+        "commit-msg.sample",
+        "fsmonitor-watchman.sample",
+        "post-update.sample",
+        "pre-applypatch.sample",
+        "pre-commit.sample",
+        "pre-merge-commit.sample",
+        "pre-push.sample",
+        "pre-rebase.sample",
+        "pre-receive.sample",
+        "prepare-commit-msg.sample",
+        "update.sample"
+    ],
+    ".git/info/": [
+        "exclude"
+    ],
+    ".git/logs/": [
+        "refs/",
+        "HEAD"
+    ],
+    ".git/logs/refs/": [
+        "heads/",
+        "remotes/"
+    ],
+    ".git/logs/refs/heads/": [
+        "main"
+    ],
+    ".git/logs/refs/remotes/": [
+        "origin/"
+    ],
+    ".git/logs/refs/remotes/origin/": [
+        "HEAD"
+    ],
+    ".git/objects/": [
+        "info/",
+        "pack/"
+    ],
+    ".git/objects/info/": [],
+    ".git/objects/pack/": [
+        "pack-42579491741a5716d507015bfd5f33ff844d2b0d.idx",
+        "pack-42579491741a5716d507015bfd5f33ff844d2b0d.pack"
+    ],
+    ".git/refs/": [
+        "heads/",
+        "remotes/",
+        "tags/"
+    ],
+    ".git/refs/heads/": [
+        "main"
+    ],
+    ".git/refs/remotes/": [
+        "origin/"
+    ],
+    ".git/refs/remotes/origin/": [
+        "HEAD"
+    ],
+    ".git/refs/tags/": [],
+    "teste/": []
+}
